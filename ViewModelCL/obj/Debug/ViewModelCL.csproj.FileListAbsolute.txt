@@ -1,0 +1,32 @@
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\easy\ViewModelCL\bin\Debug\ViewModelCL.dll
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\easy\ViewModelCL\bin\Debug\ViewModelCL.pdb
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\easy\ViewModelCL\obj\Debug\ViewModelCL.csprojResolveAssemblyReference.cache
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\easy\ViewModelCL\obj\Debug\ViewModelCL.csproj.CoreCompileInputs.cache
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\easy\ViewModelCL\obj\Debug\ViewModelCL.dll
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\easy\ViewModelCL\obj\Debug\ViewModelCL.pdb
+D:\IT\SUBJECTS\12.ADO.NET\2018.08.14 - into toEntityFramework\HW_2018.08.14\ViewModelCL\bin\Debug\ViewModelCL.dll
+D:\IT\SUBJECTS\12.ADO.NET\2018.08.14 - into toEntityFramework\HW_2018.08.14\ViewModelCL\bin\Debug\ViewModelCL.pdb
+D:\IT\SUBJECTS\12.ADO.NET\2018.08.14 - into toEntityFramework\HW_2018.08.14\ViewModelCL\obj\Debug\ViewModelCL.csproj.CoreCompileInputs.cache
+D:\IT\SUBJECTS\12.ADO.NET\2018.08.14 - into toEntityFramework\HW_2018.08.14\ViewModelCL\obj\Debug\ViewModelCL.dll
+D:\IT\SUBJECTS\12.ADO.NET\2018.08.14 - into toEntityFramework\HW_2018.08.14\ViewModelCL\obj\Debug\ViewModelCL.pdb
+D:\IT\SUBJECTS\12.ADO.NET\2018.08.14 - into toEntityFramework\HW_2018.08.14\ViewModelCL\obj\Debug\ViewModelCL.csprojResolveAssemblyReference.cache
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\Exam\ViewModelCL\bin\Debug\ViewModelCL.dll
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\Exam\ViewModelCL\bin\Debug\ViewModelCL.pdb
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\Exam\ViewModelCL\obj\Debug\ViewModelCL.csproj.CoreCompileInputs.cache
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\Exam\ViewModelCL\obj\Debug\ViewModelCL.dll
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\Exam\ViewModelCL\obj\Debug\ViewModelCL.pdb
+D:\IT\SUBJECTS\12.ADO.NET\777 - exam\Exam\ViewModelCL\obj\Debug\ViewModelCL.csprojResolveAssemblyReference.cache
+D:\IT\SUBJECTS\12.ADO.NET\2018.08.16 - laboratoryWork\MusicStoreView\ViewModelCL\bin\Debug\ViewModelCL.dll
+D:\IT\SUBJECTS\12.ADO.NET\2018.08.16 - laboratoryWork\MusicStoreView\ViewModelCL\bin\Debug\ViewModelCL.pdb
+D:\IT\SUBJECTS\12.ADO.NET\2018.08.16 - laboratoryWork\MusicStoreView\ViewModelCL\obj\Debug\ViewModelCL.csproj.CoreCompileInputs.cache
+D:\IT\SUBJECTS\12.ADO.NET\2018.08.16 - laboratoryWork\MusicStoreView\ViewModelCL\obj\Debug\ViewModelCL.dll
+D:\IT\SUBJECTS\12.ADO.NET\2018.08.16 - laboratoryWork\MusicStoreView\ViewModelCL\obj\Debug\ViewModelCL.pdb
+C:\Users\10257\Documents\folder\MusicStoreView\ViewModelCL\bin\Debug\ViewModelCL.dll
+C:\Users\10257\Documents\folder\MusicStoreView\ViewModelCL\bin\Debug\ViewModelCL.pdb
+C:\Users\10257\Documents\folder\MusicStoreView\ViewModelCL\obj\Debug\ViewModelCL.csprojResolveAssemblyReference.cache
+C:\Users\10257\Documents\folder\MusicStoreView\ViewModelCL\obj\Debug\ViewModelCL.dll
+C:\Users\10257\Documents\folder\MusicStoreView\ViewModelCL\obj\Debug\ViewModelCL.pdb
+C:\Users\10257\Documents\folder\WpfGitTest\ViewModelCL\bin\Debug\ViewModelCL.dll
+C:\Users\10257\Documents\folder\WpfGitTest\ViewModelCL\bin\Debug\ViewModelCL.pdb
+C:\Users\10257\Documents\folder\WpfGitTest\ViewModelCL\obj\Debug\ViewModelCL.dll
+C:\Users\10257\Documents\folder\WpfGitTest\ViewModelCL\obj\Debug\ViewModelCL.pdb
